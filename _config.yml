@@ -1,0 +1,53 @@
+
+title: EGPGV 2018
+email: info@egpgv.org
+baseurl: ""
+url: "http://egpgv.cs.uoregon.edu/"
+
+description: > 
+  EG Symposium on Parallel Graphics and Visualization 
+  Brno, Czech Republic, June 4, 2018
+
+
+# Build settings
+markdown: kramdown
+
+gems: 
+  - jekyll-last-modified-at
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - misc
+
+# site setup
+collections: 
+  pages:
+    output: true
+    permalink: /:path:output_ext
+
+navigation:
+ - title: Home
+   url: index.html
+ - title: Call for Papers
+   url: call-for-papers.html
+ - title: Submissions
+   url: submissions.html
+# - title: Important Dates
+#   url: important-dates.html
+# - title: Presenter Information
+#   url: presenters.html
+# - title: Program
+#   url: program.html
+# - title: Venue
+#   url: venue.html
+# - title: Accommodation
+#   url: accomodation.html
+# - title: Registration
+#   url: registration.html
+ - title: Sponsors
+   url: sponsors.html
+ - title: Committees
+   url: committees.html
+ 

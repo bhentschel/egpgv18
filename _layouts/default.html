@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: " en " }}">
+
+{% include head.html %}
+
+<body>
+
+  <header>
+    <aside>
+<!--<img id="egpgv-logo" src="assets/egpgv_header_blue_hr_notext.png" />-->
+    </aside>
+    <article>
+      <h1>
+        <b><span>EG Symposium on Parallel Graphics and Visualization</span></b><br />
+	  </h1>
+	  <h2>
+        <span>Brno, Czech Republic, June 4, 2018</span>
+      </h2>
+    </article>
+  </header>
+
+  <main>
+    <aside>
+      {% include nav.html %}
+      <hr />
+      {% capture my_include %}{% include dates.md %}{% endcapture %}
+      {{ my_include | markdownify }}
+    </aside>
+    <article>
+      {{ content }}
+    </article>
+  </main>
+
+  <footer>
+    <aside>
+      Last update: {{ page.last_modified_at | date: '%b %e, %Y' }}
+    </aside>
+    <article>
+       <span style="float: left; ">
+	   © 2017-2018 EG Symposium on Parallel Graphics and Visualization. 
+	   </span>
+	   <span style="float: right;">
+	   <a href="disclaimer.html">Disclaimer</a>
+	   </span>
+    </article>
+  </footer>
+
+</body>
+
+</html>
