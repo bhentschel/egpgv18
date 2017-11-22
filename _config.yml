@@ -46,8 +46,8 @@ navigation:
 #   url: accomodation.html
 # - title: Registration
 #   url: registration.html
- - title: Sponsors
-   url: sponsors.html
+# - title: Sponsors
+#   url: sponsors.html
  - title: Committees
    url: committees.html
  
