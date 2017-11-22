@@ -20,16 +20,25 @@ Bernd Hentschel
 Hank Childs
 : University of Oregon
 
-Fernando Cuchietti
+Fernando Cucchietti
 : Barcelona Supercomputing Center
 
 ## EGPGV Steering Committee
 
-todo
-: todo
+Janine Bennett
+: Sandia National Laboratory, USA
 
-todo
-: todo
+Fernando Cucchietti
+: Barcelona Supercomputing Center, Spain
+
+Kurt Debattista
+: University of Warwick, UK
+
+Enrico Gobbetti
+: Center for Advanced Studies, Research, and Development in Sardinia, Italy
+
+Renato Pajarola
+: University of Zurich, Switzerland
 
 </div>
 
