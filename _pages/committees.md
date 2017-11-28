@@ -25,20 +25,26 @@ Fernando Cucchietti
 
 ## EGPGV Steering Committee
 
-Janine Bennett
-: Sandia National Laboratory, USA
-
-Fernando Cucchietti
-: Barcelona Supercomputing Center, Spain
+Bruno Raffin
+: Inria Grenoble, France
 
 Kurt Debattista
 : University of Warwick, UK
 
-Enrico Gobbetti
-: Center for Advanced Studies, Research, and Development in Sardinia, Italy
-
 Renato Pajarola
 : University of Zurich, Switzerland
+
+Hank Childs
+: University of Oregon
+
+Janine Bennett
+: Sandia National Laboratory, USA
+
+Fernando Cucchietti
+: Barcelona Supercomputing Center
+
+Alexandru Telea
+: University of Groningen, Netherlands
 
 </div>
 
@@ -49,103 +55,103 @@ Aaron Knoll
 : NVIDIA
 
 Andrei Jalba
-: TU Eindhoven
+: TU Eindhoven, Netherlands
 
 Benjamín Hernández 
-: Oak Ridge National Labs
+: Oak Ridge National Labs, USA
 
 Berk Geveci
-: Kitware
+: Kitware, USA
 
 Bruno Raffin
-: INRIA Grenoble
+: INRIA Grenoble, France
 
 Carsten Dachsbacher
-: Karlsruhe Institute of Tech
+: Karlsruhe Institute of Technology, Germany
 
 Christoph Garth
-: Univ. Kaiserslautern
+: University of Kaiserslautern, Germany
 
 Daniel Weiskopf
-: University of Stuttgart
+: University of Stuttgart, Germany
 
 David Thompson
-: Kitware
+: Kitware, USA
 
 Elmar Eisemann
-: TU Delft
+: TU Delft, Netherlands
 
 Fabio Marton
-: CRS4
+: CRS4, Italy
 
 Filip Sadlo
-: University of Heidelberg
+: University of Heidelberg, Germany
 
 Guido Reina
-: Uni Stuttgart
+: University of Stuttgart, Germany
 
 Hanqi Guo
-: ANL
+: Argonne National Laboratory, USA
 
 Ingrid Hotz
-: U. Linköping
+: University of Linköping, Sweden
 
 Jeff Baumes
-: Kitware
+: Kitware, USA
 
 Jens Krüger
-: University Duisburg/­Essen
+: University Duisburg/­Essen, Germany
 
 Joshua Levine
-: University of Arizona
+: University of Arizona, USA
 
 Julien Tierny
-: LIP6
+: Sorbonne Universites UPMC, France
 
 Kelly Gaither
-: Univ. Texas/Austin
+: University of Texas, Austin, USA
 
 Kenneth Moreland
-: Sandia National Laboratories
+: Sandia National Laboratories, USA
 
 Kurt Debattista
-: University of Warwick
+: University of Warwick, GB
 
 Madhusudhanan Srinivasan
-: KAUST
+: KAUST, Saudi Arabia
 
 Matthew Larsen
-: LLNL
+: Lawrence Livermore National Laboratory, USA
 
 Michael Guthe
-: University of Bayreuth
+: University of Bayreuth, Germany
 
 Michael Wimmer
-: Technische Universität Wien
+: Technische Universität Wien, Austria
 
 Mihai Budiu
-: VMWare
+: VMWare, USA
 
 Peer-Timo Bremer
-: LLNL/SCI @ U. Utah
+: Lawrence Livermore National Laboratory; University of Utah, USA
 
 Renato Pajarola
-: U. Zurich
+: University of Zürich, Switzerland
 
 Stefan Eilemann
-: École Polytechnique Fédérale de Lausanne
+: École Polytechnique Fédérale de Lausanne, Switzerland
 
 Steffen Frey
-: Uni Stuttgart
+: University of Stuttgart, Germany
 
 Tom Vierjahn
-: RWTH Aachen
+: RWTH Aachen University, Germany
 
 Ulf Assarsson
-: Chalmers U.
+: Chalmers University, Sweden
 
 Valeriu Codreanu
-: SurfSARA Amsterdan
+: SurfSARA Amsterdam, Netherlands
 
 </div>
 
