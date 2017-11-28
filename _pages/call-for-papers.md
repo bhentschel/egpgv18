@@ -48,15 +48,26 @@ The proceedings of the EuroGraphics Symposium on Parallel Graphics and Visualiza
 ## Early Submission FAQ
 
 **Q**: What happens if my paper is accepted in the early submission review cycle?
+
 **A**: Your paper will have the exact same status as any paper accepted during the regular submission deadline. It will appear in the proceedings and you will present your paper at EGPGV18. Further, you may place your paper on your website and advertise it as a paper that will appear at EGPGV18.
 
+
+
 **Q**: What happens if my paper is not accepted in the early submission review cycle?
+
 **A**: Papers not accepted during the early submission review cycle may be resubmitted as new during the regular review cycles. Authors can indicate to the Chairs whether they would like the same reviewers (effectively treating the initial review as a revision).
 
+
+
 **Q**: If I do not submit to the early submission deadline, then can I still submit to the regular submission deadline?
+
 **A**: You can absolutely submit to only the regular submission deadline.
 
+
+
 **Q**: What is the timeline for the regular submission deadline?
+
 **A**: We are still in discussions with EuroGraphics with respect to camera-ready deadlines. Traditionally, EGPGV has a submission deadline of late February and a notification of early April. We expect the timeline for the regular submissions to match this traditional schedule. 
+
 
 For additional info regarding paper submission and publication, please contact the [program chairs](mailto:papers@egpgv.org).
