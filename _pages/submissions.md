@@ -6,9 +6,11 @@ title: Submissions
 
 # Submission Details
 
-We will have submission options for full papers (8 to 10 pages in [Eurographics format](assets/egPublStyle-PGV18.zip)) and short papers (up to 4 pages). 
+We will have submission options for *full papers* (8 to 10 pages in [Eurographics format](assets/egPublStyle-PGV18.zip)) and *short papers* (up to 4 pages). 
+In both cases, you may *add up to one full page* for references.
 Submissions will be handled through the (new) [PCS system](https://new.precisionconference.com/submissions) (see details below). 
 Please make sure to check this web site for updated submission information.
+
 The following dates apply:
 
 * Early submission deadline: December 6, 2017
