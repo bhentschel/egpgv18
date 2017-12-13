@@ -51,26 +51,85 @@ Alexandru Telea
 <div class="right">
 ## Program Committee
 
+Ulf Assarsson
+: Chalmers University, Sweden
+
+Peer-Timo Bremer
+: Lawrence Livermore National Laboratory; University of Utah, USA
+
+Mihai Budiu
+: VMWare, USA
+
+Carsten Dachsbacher
+: Karlsruhe Institute of Technology, Germany
+
+Kurt Debattista
+: University of Warwick, GB
+
+Stefan Eilemann
+: École Polytechnique Fédérale de Lausanne, Switzerland
+
+Kelly Gaither
+: University of Texas, Austin, USA
+
+Christoph Garth
+: University of Kaiserslautern, Germany
+
+Berk Geveci
+: Kitware, USA
+
+Hanqi Guo
+: Argonne National Laboratory, USA
+
+Michael Guthe
+: University of Bayreuth, Germany
+
+Benjamín Hernández 
+: Oak Ridge National Labs, USA
+
+Ingrid Hotz
+: University of Linköping, Sweden
+
+Jens Krüger
+: University Duisburg/­Essen, Germany
+
+Matthew Larsen
+: Lawrence Livermore National Laboratory, USA
+
+Joshua Levine
+: University of Arizona, USA
+
+Fabio Marton
+: CRS4, Italy
+
+Kenneth Moreland
+: Sandia National Laboratories, USA
+
+Filip Sadlo
+: University of Heidelberg, Germany
+
+Madhusudhanan Srinivasan
+: KAUST, Saudi Arabia
+
+Julien Tierny
+: Sorbonne Universites UPMC, France
+
+Tom Vierjahn
+: RWTH Aachen University, Germany
+
+Michael Wimmer
+: Technische Universität Wien, Austria
+
+
+
 Aaron Knoll
 : NVIDIA
 
 Andrei Jalba
 : TU Eindhoven, Netherlands
 
-Benjamín Hernández 
-: Oak Ridge National Labs, USA
-
-Berk Geveci
-: Kitware, USA
-
 Bruno Raffin
 : INRIA Grenoble, France
-
-Carsten Dachsbacher
-: Karlsruhe Institute of Technology, Germany
-
-Christoph Garth
-: University of Kaiserslautern, Germany
 
 Daniel Weiskopf
 : University of Stuttgart, Germany
@@ -81,74 +140,17 @@ David Thompson
 Elmar Eisemann
 : TU Delft, Netherlands
 
-Fabio Marton
-: CRS4, Italy
-
-Filip Sadlo
-: University of Heidelberg, Germany
-
 Guido Reina
 : University of Stuttgart, Germany
-
-Hanqi Guo
-: Argonne National Laboratory, USA
-
-Ingrid Hotz
-: University of Linköping, Sweden
 
 Jeff Baumes
 : Kitware, USA
 
-Jens Krüger
-: University Duisburg/­Essen, Germany
-
-Joshua Levine
-: University of Arizona, USA
-
-Julien Tierny
-: Sorbonne Universites UPMC, France
-
-Kelly Gaither
-: University of Texas, Austin, USA
-
-Kenneth Moreland
-: Sandia National Laboratories, USA
-
-Kurt Debattista
-: University of Warwick, GB
-
-Madhusudhanan Srinivasan
-: KAUST, Saudi Arabia
-
-Matthew Larsen
-: Lawrence Livermore National Laboratory, USA
-
-Michael Guthe
-: University of Bayreuth, Germany
-
-Michael Wimmer
-: Technische Universität Wien, Austria
-
-Mihai Budiu
-: VMWare, USA
-
-Peer-Timo Bremer
-: Lawrence Livermore National Laboratory; University of Utah, USA
-
 Renato Pajarola
 : University of Zürich, Switzerland
 
-Stefan Eilemann
-: École Polytechnique Fédérale de Lausanne, Switzerland
-
 Steffen Frey
 : University of Stuttgart, Germany
-
-Tom Vierjahn
-: RWTH Aachen University, Germany
-
-Ulf Assarsson
-: Chalmers University, Sweden
 
 Valeriu Codreanu
 : SurfSARA Amsterdam, Netherlands
