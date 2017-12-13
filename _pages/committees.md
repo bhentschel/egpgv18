@@ -120,41 +120,6 @@ Tom Vierjahn
 Michael Wimmer
 : Technische Universität Wien, Austria
 
-
-
-Aaron Knoll
-: NVIDIA
-
-Andrei Jalba
-: TU Eindhoven, Netherlands
-
-Bruno Raffin
-: INRIA Grenoble, France
-
-Daniel Weiskopf
-: University of Stuttgart, Germany
-
-David Thompson
-: Kitware, USA
-
-Elmar Eisemann
-: TU Delft, Netherlands
-
-Guido Reina
-: University of Stuttgart, Germany
-
-Jeff Baumes
-: Kitware, USA
-
-Renato Pajarola
-: University of Zürich, Switzerland
-
-Steffen Frey
-: University of Stuttgart, Germany
-
-Valeriu Codreanu
-: SurfSARA Amsterdam, Netherlands
-
 </div>
 
 - - -
