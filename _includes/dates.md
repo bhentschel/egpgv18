@@ -7,10 +7,10 @@ Early Submitter Notification
 : January 26, 2018
 
 Main Submission
-: tba
+: February 23, 2018
 
 Main Submission Notification
-: tba
+: April 6, 2018
 
 Camera Ready Deadline
 : tba
