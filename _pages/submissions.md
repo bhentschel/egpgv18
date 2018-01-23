@@ -15,8 +15,8 @@ The following dates apply:
 
 * Early submission deadline: December 6, 2017
 * Notification for early submission: January 26, 2018
-* Main submission deadline: February 23, 2018
-* Notification for main submission: April 6, 2018
+* Main submission deadline: March 6, 2018
+* Notification for main submission: April 17, 2018
 
 You can find the LaTeX template [here](assets/egPublStyle-PGV18.zip).
 

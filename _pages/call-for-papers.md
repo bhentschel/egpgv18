@@ -6,7 +6,7 @@ title: Call for Papers
 
 # Call for Papers
 
-## -- Submission Deadline for EGPGV (February 23, 2018) --
+## -- Submission Deadline for EGPGV (March 6, 2018) --
 
 # Scope
 
